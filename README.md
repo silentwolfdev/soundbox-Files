@@ -1,16 +1,6 @@
 # SoundBox-Files First Tutorial
 Here are the files from the first tutorial which was the SoundBoard one @ https://www.youtube.com/watch?v=_-doHB87IyY
 
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Media;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace soundbox
 {
