@@ -1,5 +1,4 @@
 # SoundBox-Files First Tutorial
-Here are the files from the first tutorial which was the SoundBoard one @ https://www.youtube.com/watch?v=_-doHB87IyY
 
 
 ```C#
